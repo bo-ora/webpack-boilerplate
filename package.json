@@ -1,0 +1,23 @@
+{
+  "name": "webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "template for starting work on vanilla js project",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^1.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bo-ora/webpack-boilerplate.git"
+  },
+  "author": "boris konotopskiy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bo-ora/webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/bo-ora/webpack-boilerplate#readme"
+}
